@@ -15,7 +15,8 @@ The dataset consists of:
 - CSV file with trending video data from multiple regions.
 
 ## Architecture
-![Project Architecture](Replace with your image link)
+![Architecture (1)](https://github.com/user-attachments/assets/448ff5c1-a176-435d-ad8e-d4eb9e08c98a)
+
 
 ## AWS Services Used
 - **Amazon S3**: For data storage.
